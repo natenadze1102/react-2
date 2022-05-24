@@ -1,6 +1,6 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
-import "./Button.css";
+import './Button.css';
 
 const Button = styled.button`
     font: inherit;
